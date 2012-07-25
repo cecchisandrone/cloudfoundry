@@ -1,4 +1,4 @@
 cloudfoundry
 ============
 
-CloudFoundry experiments
+This repository contains Java projects deployed on CloudFoundry
